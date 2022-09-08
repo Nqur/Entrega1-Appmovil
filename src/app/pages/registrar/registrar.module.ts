@@ -7,7 +7,6 @@ import { IonicModule } from '@ionic/angular';
 import { RegistrarPageRoutingModule } from './registrar-routing.module';
 
 import { RegistrarPage } from './registrar.page';
-import { validar } from 'src/app/services/valida.service';
 
 @NgModule({
   imports: [
